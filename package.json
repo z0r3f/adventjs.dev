@@ -1,0 +1,17 @@
+{
+  "name": "adventjs.dev",
+  "version": "1.0.0",
+  "description": "adventjs.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "z0r3f",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
